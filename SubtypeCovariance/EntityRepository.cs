@@ -10,6 +10,7 @@ namespace SubtypeCovariance
     {
 
         // **** This method should generate an error which you need to fix ****
+        // I think it's fix. There is no errors now that I can see now.
         public virtual Entity GetByID(Guid id)
         {
             return new Entity(id);

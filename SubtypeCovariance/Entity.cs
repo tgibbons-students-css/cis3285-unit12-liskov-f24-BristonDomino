@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SubtypeCovariance
 {
-    public class Entity
+    public class Entity 
     {
         public Entity(Guid newID)
         {
